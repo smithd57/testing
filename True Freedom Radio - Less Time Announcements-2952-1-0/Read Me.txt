@@ -1,0 +1,2 @@
+Add these files to "Data\Sound\Voice\Fallout4.esm\NPCMMinuteMenRadioVoice"
+to make the announcer report the time of day less often.
